@@ -12,10 +12,10 @@ I enjoy building practical applications, solving problems, and exploring backend
 - **Tools:** Git, GitHub, Docker
 
 ### 🚀 Featured Projects
-- [Grade Calculator](https://github.com/SanthoshBhargav/GradeCalculator) – Grade calculation platform for IIT Guwahati students.
-- [Scholarship Finder](https://github.com/SanthoshBhargav/Scholarship-Finder) – Platform to discover and explore scholarships.
-- [Z-Coder](https://github.com/SanthoshBhargav/Z-coder) – Collaborative online coding platform.
 - [NanoSQL](https://github.com/SanthoshBhargav/NanoSQL) – Building a database engine from scratch.
+- [Z-Coder](https://github.com/SanthoshBhargav/Z-coder) – Collaborative online coding platform.
+- [Scholarship Finder](https://github.com/SanthoshBhargav/Scholarship-Finder) – Platform to discover and explore scholarships.
+- [Grade Calculator](https://github.com/SanthoshBhargav/GradeCalculator) – Grade calculation platform for IIT Guwahati students.
 
 ### 💻 Experience
 - Senior Web Developer at Student Web Committee, IIT Guwahati.
